@@ -1,3 +1,1 @@
-```
-Test merge commits Popper CI.
-```
+### Test merge commits Popper CI.
